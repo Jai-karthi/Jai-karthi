@@ -20,6 +20,10 @@
 
 ###
 
+<h4 align="left">🌐 Socials:</h4>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/jai_karthi__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -34,6 +38,10 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<h4 align="left">💻 Tech Stack:</h4>
 
 ###
 
@@ -84,6 +92,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
 </div>
+
+###
+
+<h4 align="left">📊 GitHub Stats:</h4>
 
 ###
 
