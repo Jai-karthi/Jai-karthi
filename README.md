@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">🌐 Socials:</h4>
+<h3 align="left">🌐 Socials:</h3>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">💻 Tech Stack:</h4>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<h4 align="left">📊 GitHub Stats:</h4>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 ###
 
