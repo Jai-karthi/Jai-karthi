@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hey there! 👋 I’m a 21-year-old software enthusiast, diving deep into the tech ocean since 2021. Starting with Python, I quickly mastered it and ventured into the dynamic world of web development and mobile app development . Now, I’m on an exhilarating quest to explore AI Technology 🚀<br><br>My journey is all about innovation, continuous learning, and transforming wild ideas into cutting-edge digital solutions. I am currently seeking job opportunities to leverage my skills and passion in a dynamic and challenging environment. Let’s connect and create some tech magic together! ✨<br><br>🌍 I'm living in india<br><br>🤝 You can contact me at jaikarthi00007@gmail.com<br><br>🧑🏻‍💻 Leetcode profile Rank-23,078 leetcode<br><br>🤝 I'm open to collaborating on open source projects</p>
+<p align="left">Hey there! 👋 I’m a 21-year-old software enthusiast, diving deep into the tech ocean since 2021. Starting with Python, I quickly mastered it and ventured into the dynamic world of web development and mobile app development . Now, I’m on an exhilarating quest to explore AI Technology 🚀<br><br>My journey is all about innovation, continuous learning, and transforming wild ideas into cutting-edge digital solutions. I am currently seeking job opportunities to leverage my skills and passion in a dynamic and challenging environment. Let’s connect and create some tech magic together! ✨<br><br>🌍 I'm living in india<br><br>🤝 You can contact me at jaikarthi00007@gmail.com<br><br>🧑🏻‍💻 Leetcode profile Rank-20,919 leetcode<br><br>🤝 I'm open to collaborating on open source projects</p>
 
 ###
 
